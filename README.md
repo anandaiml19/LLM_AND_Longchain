@@ -1,1 +1,1 @@
-# LLM_AND_Longchain
+# News Article Sumarizer using LLM_AND_Longchain
